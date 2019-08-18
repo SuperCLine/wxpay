@@ -1,0 +1,9 @@
+*.exe
+*.so
+*.dll
+*.a
+*.o
+/Library
+/Temp
+/.vs
+/.idea
